@@ -142,16 +142,6 @@ The most influential features were:
 
 ---
 
-## Future Improvements
-
-- Hyperparameter tuning
-- Cross Validation
-- XGBoost
-- Gradient Boosting
-- Deploy model with Streamlit
-
----
-
 ## Author
 
 Martin Gijevski
